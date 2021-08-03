@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="05DB9313-F330-431A-B358-F88CA438E446" version="0" availableOffline="1">
+<presentation guid="272E38A5-A9AE-4C17-9850-DA4318465E24" version="0" availableOffline="1">
 	<info>
 		<title>របៀបសង់ក្រាប</title>
 		<description/>
 	</info>
-	<files index="id25" thumbnail="id63" totalSize="50850718">
+	<files index="id25" thumbnail="id63" totalSize="50850738">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
